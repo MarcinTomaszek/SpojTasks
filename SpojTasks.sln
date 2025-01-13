@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MohibPizza", "MohibPizza\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUTCAKE", "CUTCAKE\CUTCAKE.csproj", "{8BB406AD-2051-426D-BA9C-83BD06AE5FD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking", "Breaking\Breaking.csproj", "{A076F624-83F9-4188-A20E-12D312AB3941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8BB406AD-2051-426D-BA9C-83BD06AE5FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB406AD-2051-426D-BA9C-83BD06AE5FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB406AD-2051-426D-BA9C-83BD06AE5FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A076F624-83F9-4188-A20E-12D312AB3941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A076F624-83F9-4188-A20E-12D312AB3941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A076F624-83F9-4188-A20E-12D312AB3941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A076F624-83F9-4188-A20E-12D312AB3941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
